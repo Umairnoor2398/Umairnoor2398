@@ -1,7 +1,16 @@
+
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Umair Noor</h1>
+         
+[![](https://visitcount.itsvg.in/api?id=Umairnoor2398&icon=2&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
+
 😄 Pronouns: He/His<br>🌱 I’m currently learning.<br>📫 How to reach me: Check social links below.
 
-[![](https://visitcount.itsvg.in/api?id=Umairnoor2398&icon=2&color=1)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/umairnoor1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/umair2398) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umairnoor2398) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umairnoor2398) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Umair-Noor-18) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17761925/umair-noor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/umair_itz) 
 
